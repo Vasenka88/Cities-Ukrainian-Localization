@@ -1,0 +1,2 @@
+Mod_Lang_UA.dll: Mod_Lang_UA.cs ua.locale
+	mcs -target:library -r:ColossalManaged.dll -r:ICities.dll -r:Assembly-CSharp.dll -r:UnityEngine.dll -codepage:utf8 -resource:ua.locale,Mod_Lang_UA.ua.locale $<
