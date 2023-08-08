@@ -39,8 +39,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Встановлення
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Тут є два варіанти: якщо у вас Steam-версія, то вам підійде перший, якщо ні то другий.
 
 ### Через Steam Workshop
 
@@ -73,9 +72,15 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Помилки та неперекладене
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Перекладена не вся гра, такі DLC як Hotels & Retreats, Brooklyn & Queens, Railroads of Japan, Shopping Malls, Sports Venues, Campus та Africa in Miniature були перекладені частково, або переклад відсутній зовсім. Також не перекладено багато повідомлень Чірпера, сповіщень про новий контент (з'являється при заході в гру, якщо воно сховане, то показується після завантаження нових DLC чи оновлень гри). Прошу не надсилати подібне до гугл форми яка вказана нижче.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Що надсилати до гугл форми? Помилки, неперекладені частини гри які не були вказані вище
+
+Сама гугл форма:
+https://forms.gle/RYFjFLC2M71cSEt4A
+
+При використанні модів Custom Data та Vehicle Skins виникають помилки при запуску гри, що ніяк не перешкоджають роботі жодного з модів. Це пов'язано з тим, що ці моди не розпізнають українську.
+Також не рекомендовано залишати автовибір мови в налаштуваннях модів.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
