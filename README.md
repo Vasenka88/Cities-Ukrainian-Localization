@@ -38,34 +38,62 @@
 
 ## Встановлення
 
-Тут є два варіанти: якщо у вас Steam-версія, то вам підійде перший, якщо ні то другий.
+Тут є два варіанти: через модифікацію та вручну. Вручну для тих, хто не хоче обтяжувати себе зайвими модами.
 
-### Через Steam Workshop
+### Через модифікацію
 <ol>
     <li>
-      Підписуємось на <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3012910170">мод</a>
-      <img src="https://i.imgur.com/A5cArmq.png" alt="workshop_subscribe" width=900></img>
+      <ul>
+        Для Steam-версій:<br>
+        Підписуємось на <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3012910170">мод</a>
+        <img src="https://i.imgur.com/A5cArmq.png" alt="workshop_subscribe" width=900></img>
+      </ul>
+      <ul>
+        Для всіх інших:<br>
+        Завантажуємо мод з GitHub, далі створюємо теку <i>Українізатор</i> за цим шляхом:<br> 
+        Windows: <i>%LOCALAPPDATA%\Colossal Order\Cities_Skylines\Addons\Mods</i><br>
+        MacOS: <i>~/Library/Application Support/Colossal Order/Cities_Skylines/Addons/Mods</i><br>
+        Linux: <i>~/.local/share/Colossal Order/Cities_Skylines/Addons/Mods</i>
+      </ul>
     </li>
     <li>
-      Заходимо в <b>Content Manager</b> у грі та вмикаємо
-      <img src="https://i.ibb.co/HHnDZdN/6060-A675-D016-446-D-957-B-B8-DCAA02-EAB1.jpg" alt="content_manager_on" width=900></img>
+      Заходимо в <b>Content Manager</b> у грі, далі в <b>Mods</b> та вмикаємо
+      <img src="https://i.imgur.com/lqM5fa0.png" alt="content_manager_on" width=900></img>
     </li>
+    <li>
+      Якщо у вас не вибралося автоматично, то далі заходимо в <b>Settings</b>, <b>Gameplay</b> та обираємо мову
+      <img src="https://i.imgur.com/cbdEqJm.png" alt="settings_select" width=900></img>
+    </li>
+    <li>
+      Насолоджуємось грою
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/2013723347166249717/F797E790997590A9860CF74E420D34877E5727EE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="final" width=900></img><br>
+      Щоб оновити мод для не steam-версій, просто замінюємо мод в теці.
+    </li>
+</ol>
 
 ### Вручну
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+<ol>
+    <li>
+      Завантажте файл локалізації за цим посиланням:<br>
+      https://drive.google.com/drive/folders/1q8SZfQE3ZkZAMC3Kni3DU2ihpijPdtfQ?usp=drive_link (можна і з GitHub, але на диску швидше оновлюється)
+    </li>
+    <li>
+      Перейдіть до локальних файлів гри, по цьому шляху: <br>
+      Steam: <i>C:\Program Files (x86)\Steam\steamapps\common\Cities_Skylines\Files\Locale</i><br>
+      Epic: <i>C:\Program Files\Epic Games\CitiesSkylines\Files\Locale</i><br>
+      Та киньте туди завантажений файл
+    </li>
+    <li>
+      Далі заходимо в <b>Settings</b>, <b>Gameplay</b> та обираємо мову
+      <img src="https://i.imgur.com/cbdEqJm.png" alt="settings_select" width=900></img>
+    </li>
+    <li>
+      Насолоджуємось грою
+      <img src="https://steamuserimages-a.akamaihd.net/ugc/2013723347166249717/F797E790997590A9860CF74E420D34877E5727EE/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="final" width=900></img><br>
+      Щоб оновити переклад, просто замінюємо його в теці.
+    </li>
+</ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,8 +112,8 @@ https://forms.gle/RYFjFLC2M71cSEt4A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Автори
-Автор перекладу: <a href="">Kemza</a>
+### Автори
+Автор перекладу: <a href="">Kemza</a><br>
 Автор моду: <a href="">Vasenka88</a>
 
 ## Підтримка
@@ -115,7 +143,7 @@ Don't forget to give the project a star! Thanks again!
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+4. Push to the Branch `git push origin feature/AmazingFeature`
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
