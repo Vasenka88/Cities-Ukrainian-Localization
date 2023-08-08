@@ -31,7 +31,7 @@
 ## Про проект
 
 Українізатор, українська локалізація, український переклад, назв багато — суть одна: грати в ігри рідною мовою, та показати видавцям, що наша мова — має значення.<br>
-Це класичний мод-переклад для Cities: Skylines. Таких модів дуже багато в Воркшопі, і вони не дуже між собою різняться. Тож цей мод створений на основі Тайської локалізації. Вона, в свою чергу, створена на основі Посібника з перекладу, від АВТОРА. Але "переклад" .locale у .po і назад виконаний за допомогою Фінської локалізації (так фінська компанія не має рідної мови у своїй грі — парадокс). Компіляція виконана на Лінукс, бо мені так простіше.
+Це класичний мод-переклад для Cities: Skylines. Таких модів дуже багато в Воркшопі, і вони не дуже між собою різняться. Тож цей мод створений на основі <a href="https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH">Тайської локалізації</a>. Але "переклад" .locale у .po і назад виконаний за допомогою <a href="https://github.com/hanskurppa/csfi">Фінської локалізації</a> (так фінська компанія не має рідної мови у своїй грі — парадокс). Компіляція виконана на Лінукс за допомогою Makefile, бо мені так простіше.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,8 +113,8 @@ https://forms.gle/RYFjFLC2M71cSEt4A
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Автори
-Автор перекладу: <a href="">Kemza</a><br>
-Автор моду: <a href="">Vasenka88</a>
+Автор перекладу: <a href="https://steamcommunity.com/id/kemza08">Kemza</a><br>
+Автор моду: <a href="https://steamcommunity.com/id/vasenka88">Vasenka88</a>
 
 ## Підтримка
 
@@ -135,15 +135,6 @@ https://www.u-aid.org/<br>
 
 ## Info for Community
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch `git push origin feature/AmazingFeature`
-5. Open a Pull Request
+This is a classic mod translation for Cities: Skylines. There are a lot of such mods in the Workshop, and they are not very different from each other. So this mod is created based on <a href="https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH">Thai localization</a>. But the "translation" of .locale to .po and back is done using the <a href="https://github.com/hanskurppa/csfi">Finnish localization</a> (yes, the Finnish company does not have a native language in its own game — paradox interactive). The compilation is done on Linux using Makefile, because it's easier for me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
