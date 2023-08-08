@@ -42,12 +42,15 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 Тут є два варіанти: якщо у вас Steam-версія, то вам підійде перший, якщо ні то другий.
 
 ### Через Steam Workshop
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<ol>
+    <li>
+      Підписуємось на <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3012910170">мод</a>
+      <img src="https://i.imgur.com/A5cArmq.png" alt="workshop_subscribe" width=900></img>
+    </li>
+    <li>
+      Заходимо в <b>Content Manager</b> у грі та вмикаємо
+      <img src="https://i.ibb.co/HHnDZdN/6060-A675-D016-446-D-957-B-B8-DCAA02-EAB1.jpg" alt="content_manager_on" width=900></img>
+    </li>
 
 ### Вручну
 
