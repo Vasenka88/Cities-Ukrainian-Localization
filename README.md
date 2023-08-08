@@ -6,36 +6,29 @@
     <img src="https://steamuserimages-a.akamaihd.net/ugc/2021604543003289244/ED4DD6A0E15BDADE98E65D2D8573D7EBB64C8362/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Logo" width="80" height="80">
   </a>
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Зміст/Table of content</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
+      <a href="#про-проект">Про проект</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#встановлення">Встановлення</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#через-steam-workshop">Steam Workshop</a></li>
+        <li><a href="#installation">Ручне</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#usage">Помилки та неперекладене</a></li>
+    <li><a href="#roadmap">Підтримка</a></li>
+    <li><a href="#contributing">Info for Community</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Про проект
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
@@ -44,12 +37,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Встановлення
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Через Steam Workshop
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
