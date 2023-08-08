@@ -16,12 +16,12 @@
       <a href="#встановлення">Встановлення</a>
       <ul>
         <li><a href="#через-steam-workshop">Steam Workshop</a></li>
-        <li><a href="#installation">Ручне</a></li>
+        <li><a href="#вручну">Ручне</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Помилки та неперекладене</a></li>
-    <li><a href="#roadmap">Підтримка</a></li>
-    <li><a href="#contributing">Info for Community</a></li>
+    <li><a href="#помилки-та-неперекладене">Помилки та неперекладене</a></li>
+    <li><a href="#підтримка">Підтримка</a></li>
+    <li><a href="#info-for-community">Info for Community</a></li>
   </ol>
 </details>
 
@@ -50,7 +50,7 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Вручну
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -71,7 +71,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Помилки та неперекладене
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -82,7 +82,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Підтримка
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -96,7 +96,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## Info for Community
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
