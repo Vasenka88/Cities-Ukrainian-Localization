@@ -120,18 +120,18 @@ https://forms.gle/RYFjFLC2M71cSEt4A
 
 А підтримати цей переклад ви можете донатом на вказані тут благодійні фонди(але можете донатити і в інші)
 
-Фонд Сергія Притули:
-https://prytulafoundation.org/
-Повернись живим:
-https://savelife.in.ua/donate/#donate-army-card-once
-Госпітальєри:
-https://www.hospitallers.life/needs-hospitallers
-UAnimals:
-https://uanimals.org/how-to-help/?regular&utm_source=search&utm_medium=cpc&utm_campaign=search_uanimals_ukraine&utm_term={uanimals}&gclid=CjwKCAjw8ZKmBhArEiwAspcJ7rYyrYvO5Ra1Xa7j9svDg46QFi4bcjQKAwV79Rt37y6l2Z_p8FyngRoCHZEQAvD_BwE
-UAID:
-https://www.u-aid.org/
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Фонд Сергія Притули:<br>
+https://prytulafoundation.org/<br>
+Повернись живим:<br>
+https://savelife.in.ua/donate/#donate-army-card-once<br>
+Госпітальєри:<br>
+https://www.hospitallers.life/needs-hospitallers<br>
+UAnimals:<br>
+https://uanimals.org/how-to-help/?regular&utm_source=search&utm_medium=cpc&utm_campaign=search_uanimals_ukraine&utm_term={uanimals}&gclid=CjwKCAjw8ZKmBhArEiwAspcJ7rYyrYvO5Ra1Xa7j9svDg46QFi4bcjQKAwV79Rt37y6l2Z_p8FyngRoCHZEQAvD_BwE<br>
+UAID:<br>
+https://www.u-aid.org/<br>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Info for Community
 
