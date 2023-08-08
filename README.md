@@ -30,13 +30,12 @@
 <!-- ABOUT THE PROJECT -->
 ## Про проект
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Українізатор, українська локалізація, український переклад, назв багато — суть одна: грати в ігри рідною мовою, та показати видавцям, що наша мова — має значення.<br>
+Це класичний мод-переклад для Cities: Skylines. Таких модів дуже багато в Воркшопі, і вони не дуже між собою різняться. Тож цей мод створений на основі Тайської локалізації. Вона, в свою чергу, створена на основі Посібника з перекладу, від АВТОРА. Але "переклад" .locale у .po і назад виконаний за допомогою Фінської локалізації (так фінська компанія не має рідної мови у своїй грі — парадокс). Компіляція виконана на Лінукс, бо мені так простіше.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
 ## Встановлення
 
 Тут є два варіанти: якщо у вас Steam-версія, то вам підійде перший, якщо ні то другий.
@@ -71,8 +70,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- USAGE EXAMPLES -->
 ## Помилки та неперекладене
 
 Перекладена не вся гра, такі DLC як Hotels & Retreats, Brooklyn & Queens, Railroads of Japan, Shopping Malls, Sports Venues, Campus та Africa in Miniature були перекладені частково, або переклад відсутній зовсім. Також не перекладено багато повідомлень Чірпера, сповіщень про новий контент (з'являється при заході в гру, якщо воно сховане, то показується після завантаження нових DLC чи оновлень гри). Прошу не надсилати подібне до гугл форми яка вказана нижче.
@@ -87,23 +84,27 @@ https://forms.gle/RYFjFLC2M71cSEt4A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Автори
+Автор перекладу: <a href="">Kemza</a>
+Автор моду: <a href="">Vasenka88</a>
 
-
-<!-- ROADMAP -->
 ## Підтримка
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+А підтримати цей переклад ви можете донатом на вказані тут благодійні фонди(але можете донатити і в інші)
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
+Фонд Сергія Притули:
+https://prytulafoundation.org/
+Повернись живим:
+https://savelife.in.ua/donate/#donate-army-card-once
+Госпітальєри:
+https://www.hospitallers.life/needs-hospitallers
+UAnimals:
+https://uanimals.org/how-to-help/?regular&utm_source=search&utm_medium=cpc&utm_campaign=search_uanimals_ukraine&utm_term={uanimals}&gclid=CjwKCAjw8ZKmBhArEiwAspcJ7rYyrYvO5Ra1Xa7j9svDg46QFi4bcjQKAwV79Rt37y6l2Z_p8FyngRoCHZEQAvD_BwE
+UAID:
+https://www.u-aid.org/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- CONTRIBUTING -->
 ## Info for Community
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
