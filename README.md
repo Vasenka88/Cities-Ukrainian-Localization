@@ -50,7 +50,7 @@
       </ul>
       <ul>
         Для всіх інших:<br>
-        Завантажуємо мод з GitHub, далі створюємо теку <i>Українізатор</i> за цим шляхом:<br> 
+        Завантажуємо <i>Mod_Lang_UA.dll</i> з GitHub, далі створюємо теку <i>Українізатор</i> за цим шляхом:<br> 
         Windows: <i>%LOCALAPPDATA%\Colossal Order\Cities_Skylines\Addons\Mods</i><br>
         MacOS: <i>~/Library/Application Support/Colossal Order/Cities_Skylines/Addons/Mods</i><br>
         Linux: <i>~/.local/share/Colossal Order/Cities_Skylines/Addons/Mods</i>
