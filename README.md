@@ -135,6 +135,6 @@ https://www.u-aid.org/<br>
 
 ## Info for Community
 
-This is a classic mod translation for Cities: Skylines. There are a lot of such mods in the Workshop, and they are not very different from each other. So this mod is created based on <a href="https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH">Thai localization</a>. But the "translation" of .locale to .po and back is done using the <a href="https://github.com/hanskurppa/csfi">Finnish localization</a> (yes, the Finnish company does not have a native language in its own game — paradox interactive). The compilation is done on Linux using Makefile, because it's easier for me.
+This is a classic mod translation for Cities: Skylines. There are a lot of such mods in the Workshop, and they are not very different from each other. So this mod is created based on <a href="https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH">Thai localization</a>. But the "translation" of .locale to .po and back is done using the <a href="https://github.com/hanskurppa/csfi">Finnish localization</a> (yes, the Finnish company does not have a native language in its own game — paradox interactive). The compilation is done on Linux using Make, because it's easier for me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
